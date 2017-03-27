@@ -1,5 +1,5 @@
 # ath9k_csi_kernel
-Patches for Linux Kernel to implement [CSI](http://pdcc.ntu.edu.sg/wands/Atheros/) on OpenWrt
+Patches based on [Atheros-CSI-Tool](https://github.com/xieyaxiongfly/Atheros-CSI-Tool) for Linux Kernel to implement access [CSI](http://pdcc.ntu.edu.sg/wands/Atheros/) from Atheros 9003 chipsets
 
 **Installation**
 
